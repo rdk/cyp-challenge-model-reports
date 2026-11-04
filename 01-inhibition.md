@@ -82,6 +82,8 @@ Final models use all admitted training data, with unavailable endpoint labels ma
 
 No official score is reported here.
 
+**Acknowledgment.** Reports by adlvdl and HauserGroup helped motivate the interval-aware loss used in the CheMeleon branch.
+
 ---
 
 **Accepted:** 3 November 2026, 23:56:16 UTC.

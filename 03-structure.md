@@ -58,6 +58,8 @@ No proprietary assay data were added, and Boltz-2 was not retrained. Foundation-
 
 No official score is reported here.
 
+**Acknowledgment.** The Boltz-2 sampling and consensus-selection workflow was inspired by discoverybytes’ method report, with an independent implementation and additional identity and geometry checks.
+
 ## References
 
 - [Boltz source and model documentation](https://github.com/jwohlwend/boltz).
