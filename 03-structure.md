@@ -58,7 +58,7 @@ No proprietary assay data were added, and Boltz-2 was not retrained. Foundation-
 
 No official score is reported here.
 
-**Acknowledgment.** The Boltz-2 sampling and consensus-selection workflow was inspired by discoverybytes’ method report, with an independent implementation and additional identity and geometry checks.
+**Acknowledgment.** The Boltz-2 sampling and consensus-selection workflow was inspired by discoverybytes’ method report. We used current organizer-specified stereochemistry, added pose-level identity and geometry filtering before clustering, and evaluated the workflow on a public crystal-structure development panel.
 
 ## References
 
